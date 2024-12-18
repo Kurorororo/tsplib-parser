@@ -1,0 +1,8 @@
+[package]
+name = "tsplib-parser"
+version = "0.1.0"
+edition = "2021"
+description = "A parser for the TSPLIB format"
+license = "MIT OR Apache-2.0"
+authors = ["Ryo Kuroiwa <kuroiwa@nii.ac.jp>"]
+repository = "https://github.com/Kurorororo/tsplib-parser"
